@@ -1,2 +1,4 @@
 # Bca-C-programming
-Learner
+I created this repository to practice C programming, improve my coding skills. 
+#Learning Journey
+
